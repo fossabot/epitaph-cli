@@ -1,0 +1,14 @@
+{
+  "name": "@epitaph/cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for epitaph-ci",
+  "bin":"index.js",
+  "repository": "git@github.com:epitaph-ci/epitaph-cli.git",
+  "author": "Andy <andy200511@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "express": "^4.16.4",
+    "js-yaml": "^3.12.0"
+  }
+}
